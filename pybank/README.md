@@ -1,4 +1,4 @@
-## Option 1: PyBank
+##PyBank
 
 ![Revenue](Images/revenue-per-lead.jpg)
 
